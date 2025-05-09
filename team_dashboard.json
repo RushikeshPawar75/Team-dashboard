@@ -1,0 +1,38 @@
+{
+ "content": null,
+ "creation": "2025-03-05 16:38:30.358753",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2025-03-05 16:38:30.358753",
+ "modified_by": "Administrator",
+ "module": "Nextproject",
+ "name": "team-dashboard",
+ "owner": "Administrator",
+ "page_name": "team-dashboard",
+ "roles": [
+  {
+   "role": "Administrator"
+  },
+  {
+   "role": "Administrator"
+  },
+  {
+   "role": "Projects Manager"
+  },
+  {
+   "role": "Projects Manager"
+  },
+  {
+   "role": "Projects User"
+  },
+  {
+   "role": "Projects User"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Team Dashboard"
+}
